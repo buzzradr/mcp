@@ -56,4 +56,4 @@ Ask your agent:
 
 ## Registry manifest
 
-[`server.json`](./server.json) is the manifest published to the [official MCP registry](https://registry.modelcontextprotocol.io) as `io.github.buzzradr/mcp`.
+[`server.json`](./server.json) is the manifest published to the [official MCP registry](https://registry.modelcontextprotocol.io) as `com.buzzradr/mcp` (DNS-verified against buzzradr.com).

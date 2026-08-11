@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
-  "name": "io.github.buzzradr/mcp",
+  "name": "com.buzzradr/mcp",
   "description": "Live AI trend radar: trending AI topics, why-trending signals, daily digests. No API key.",
   "repository": {
     "url": "https://github.com/buzzradr/mcp",
