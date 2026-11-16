@@ -1,5 +1,7 @@
 # BuzzRadr MCP Server
 
+> **⚠️ Paused (November 2026):** BuzzRadr is currently offline. The public API and MCP endpoint at `buzzradr.com` return HTTP 503, so this server will not work until the service is resumed.
+
 Remote [MCP](https://modelcontextprotocol.io) server for **BuzzRadr AI Pulse** — a live AI trend radar. Gives any MCP client real-time access to trending AI topics with "why trending" signals, daily digests, and source health.
 
 - **Endpoint:** `https://buzzradr.com/api/mcp` (Streamable HTTP)
